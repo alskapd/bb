@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <!-- When selected, use grey -->
+    <item android:drawable="@drawable/ic_tab_artists_grey" android:state_selected="true"/>
+    <!-- When not selected, use white -->
+    <item android:drawable="@drawable/ic_tab_artists_white"/>
+
+</selector>
+<!-- 탭 이미지가 위의 두가지 밖에 없기 때문에 ic_tab_songs.xml, ic_tab_albums.xml 파일 내용이 같습니다. -->

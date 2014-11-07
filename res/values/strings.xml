@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DemoTab</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_demo_tab">DemoTab</string>
+    <string name="title_activity_demo_tab2">DemoTab2</string>
+    <string name="rabbit">Rabbit XD</string>
+
+</resources>
